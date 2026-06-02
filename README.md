@@ -33,9 +33,9 @@ Welcome to my master portfolio hub! This repository serves as a central director
 ###  4. Real-Time Environmental Intelligence (Business Case Study)
 * What it does: A strategic operational presentation translating weather dataset insights into concrete corporate actions—such as modifying supply chain routes to avoid delays and running facility HVAC systems early to cut energy costs.
 * Tech Used: Power BI Analytical Charts, Strategic Planning, Data Storytelling.
-* Link to Project: [View Dedicated Case Study Presentation Repository Here](E)
+* Link to Project: [View Dedicated Case Study Presentation Repository Here](https://github.com/nikitabhankhar/weather-case-study)
 
 ---
 
-## ✉️ Let's Connect!
-* **GitHub:** [github.com/your-username](https://github.com/your-username)
+## Let's Connect!
+* GitHub: [github.com/nikitabhankhar](https://github.com/nikitabhankhar)
