@@ -23,7 +23,7 @@ Welcome to my master portfolio hub! This repository serves as a central director
 ### 2. Supermarket Sales Exploratory Data Analysis (EDA)
 * What it does: An in-depth exploratory data analysis on retail transaction records to track customer buying behavior, branch performance across multiple cities, and payment method ecosystem preferences.
 * Tech Used: Python, Pandas, NumPy, Seaborn, Matplotlib.
-*  Link to Project: [View Dedicated Supermarket EDA Repository Here](E)
+*  Link to Project: [View Dedicated Supermarket EDA Repository Here](https://github.com/nikitabhankhar/supermarket-sales-eda)
 
 ### 3.  Weather Data Aggregation & Analytical Queries (SQL)
 * What it does: A production-ready SQL script utilizing Common Table Expressions (CTEs), advanced data filtering, window functions, and aggregations to calculate core weather KPIs and humidity classifications.
