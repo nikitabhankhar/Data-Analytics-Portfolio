@@ -18,7 +18,7 @@ Welcome to my master portfolio hub! This repository serves as a central director
 ### 1.  Blinkit Grocery Sales Performance Dashboard (Power BI)
 * What it does: An interactive business intelligence dashboard that analyzes retail sales performance, customer satisfaction, and inventory distribution for Blinkit. It tracks core metrics like Total Sales, Average Sales, Number of Items sold, and Average Ratings across different store tiers and locations.
 * Tech Used: Power BI, DAX Measures, Data Modeling, Data Visualization.
-* Link to Project: [View Dedicated Blinkit Dashboard Repository Here]()
+* Link to Project: [View Dedicated Blinkit Dashboard Repository Here](https://github.com/nikitabhankhar/dashBoard)
 
 ### 2. Supermarket Sales Exploratory Data Analysis (EDA)
 * What it does: An in-depth exploratory data analysis on retail transaction records to track customer buying behavior, branch performance across multiple cities, and payment method ecosystem preferences.
