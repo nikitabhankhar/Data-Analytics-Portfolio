@@ -28,7 +28,7 @@ Welcome to my master portfolio hub! This repository serves as a central director
 ### 3.  Weather Data Aggregation & Analytical Queries (SQL)
 * What it does: A production-ready SQL script utilizing Common Table Expressions (CTEs), advanced data filtering, window functions, and aggregations to calculate core weather KPIs and humidity classifications.
 * Tech Used: SQL, Relational Database Management, Data Aggregation, CTEs.
-*  Link to Project: [View Dedicated SQL Repository Here](E)
+*  Link to Project: [View Dedicated SQL Repository Here](https://github.com/nikitabhankhar/weather-data-sql-analysis)
 
 ###  4. Real-Time Environmental Intelligence (Business Case Study)
 * What it does: A strategic operational presentation translating weather dataset insights into concrete corporate actions—such as modifying supply chain routes to avoid delays and running facility HVAC systems early to cut energy costs.
