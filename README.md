@@ -25,9 +25,10 @@ Welcome to my master portfolio hub! This repository serves as a central director
 * Tech Used: Python, Pandas, NumPy, Seaborn, Matplotlib.
 *  Link to Project: [View Dedicated Supermarket EDA Repository Here](https://github.com/nikitabhankhar/supermarket-sales-eda)
 
-### 3.  Weather Data Aggregation & Analytical Queries (SQL)
-* What it does: A production-ready SQL script utilizing Common Table Expressions (CTEs), advanced data filtering, window functions, and aggregations to calculate core weather KPIs and humidity classifications.
-* Tech Used: SQL, Relational Database Management, Data Aggregation, CTEs.
+### 3.  Crop Weather Stress Analysis
+* What it does: An agro-meteorological analytics that tracks real-time weather fluctuations against crop biological limits to proactively manage crop stress and predict irrigation demands.
+* Tech Used: SQL (T-SQL):** Relational database scripting, multi-table JOINs, conditional risk logic, and data aggregation.
+*            Microsoft Excel:** Data visualization, pivot tables, and stakeholder-facing reporting dashboards.
 *  Link to Project: [View Dedicated SQL Repository Here](https://github.com/nikitabhankhar/weather-data-sql-analysis)
 
 ###  4. Real-Time Environmental Intelligence (Business Case Study)
