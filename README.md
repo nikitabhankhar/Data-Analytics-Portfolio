@@ -35,7 +35,7 @@ Welcome to my master portfolio hub! This repository serves as a central director
 * What it does: A data-driven Business Intelligence strategy that utilizes a custom Infrastructure Sufficiency Index (ISI) to pinpoint regional grid bottlenecks and optimize charging network expansion for Tata Power’s EZ Charge grid.
 * Tech Used:Power BI Dashboard: Data modeling, ETL data preparation, and geospatial mapping.
             DAX: Statistical calculations for localized network strain metrics (ISI).
-* Link to Project: [View Dedicated Case Study Presentation Repository Here]()
+* Link to Project: [View Dedicated Case Study Presentation Repository Here](https://github.com/nikitabhankhar/tata-ev-network-optimization)
 
 ---
 
