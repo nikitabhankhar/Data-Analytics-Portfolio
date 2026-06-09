@@ -29,12 +29,13 @@ Welcome to my master portfolio hub! This repository serves as a central director
 * What it does: An agro-meteorological analytics that tracks real-time weather fluctuations against crop biological limits to proactively manage crop stress and predict irrigation demands.
 * Tech Used: SQL (T-SQL):** Relational database scripting, multi-table JOINs, conditional risk logic, and data aggregation.
 *            Microsoft Excel:** Data visualization, pivot tables, and stakeholder-facing reporting dashboards.
-*  Link to Project: [View Dedicated SQL Repository Here](https://github.com/nikitabhankhar/weather-data-sql-analysis)
+*  Link to Project: [View Dedicated SQL Repository Here](https://github.com/nikitabhankhar/weather-crop-analysis)
 
-###  4. Real-Time Environmental Intelligence (Business Case Study)
-* What it does: A strategic operational presentation translating weather dataset insights into concrete corporate actions—such as modifying supply chain routes to avoid delays and running facility HVAC systems early to cut energy costs.
-* Tech Used: Power BI Analytical Charts, Strategic Planning, Data Storytelling.
-* Link to Project: [View Dedicated Case Study Presentation Repository Here](https://github.com/nikitabhankhar/weather-case-study)
+###  4. Tata EV Network Optimization (Business Case Study)
+* What it does: A data-driven Business Intelligence strategy that utilizes a custom Infrastructure Sufficiency Index (ISI) to pinpoint regional grid bottlenecks and optimize charging network expansion for Tata Power’s EZ Charge grid.
+* Tech Used:Power BI Dashboard: Data modeling, ETL data preparation, and geospatial mapping.
+            DAX: Statistical calculations for localized network strain metrics (ISI).
+* Link to Project: [View Dedicated Case Study Presentation Repository Here]()
 
 ---
 
