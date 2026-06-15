@@ -28,7 +28,7 @@ Welcome to my master portfolio hub! This repository serves as a central director
 ### 3.  Crop Weather Stress Analysis
 * What it does: An agro-meteorological analytics that tracks real-time weather fluctuations against crop biological limits to proactively manage crop stress and predict irrigation demands.
 * Tech Used: SQL (T-SQL):** Relational database scripting, multi-table JOINs, conditional risk logic, and data aggregation.
-*            Microsoft Excel:** Data visualization, pivot tables, and stakeholder-facing reporting dashboards.
+*            Google Sheet:** Data visualization, pivot tables, and stakeholder-facing reporting dashboards.
 *  Link to Project: [View Dedicated SQL Repository Here](https://github.com/nikitabhankhar/weather-crop-analysis)
 
 ###  4. Tata EV Network Optimization (Business Case Study)
